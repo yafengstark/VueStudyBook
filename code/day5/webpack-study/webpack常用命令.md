@@ -41,7 +41,7 @@ npm -v
 
 ## 4.0.0版本以上需要安装webpack-cli
 
-npx webpack
+npx webpack 编译整个项目
 
 
 ## 解决报错
@@ -53,3 +53,5 @@ html-webpack-plugin\lib\compiler.js:81
  
  
  再执行打包命令，亲测可用
+ 
+##
