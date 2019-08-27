@@ -5,10 +5,10 @@
 //  ES6中导入模块，使用   import 模块名称 from '模块标识符'    import '表示路径'
 
 // 在 ES6 中，使用 export default 和 export 向外暴露成员：
-var info = {
+const info = {
   name: 'zs',
   age: 20
-}
+};
 
 export default info
 

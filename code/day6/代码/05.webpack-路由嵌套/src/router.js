@@ -1,4 +1,4 @@
-import VueRouter from 'vue-router'
+ import VueRouter from 'vue-router'
 
 // 导入 Account 组件
 import account from './main/Account.vue'
